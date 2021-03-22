@@ -1,0 +1,38 @@
+/* Global ================ */
+:root {
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 93.75%;
+}
+body {
+  background-color: #1e2223;
+  color: #fff;
+}
+header {
+  background-color: white;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+    font-weight:italic;
+}
+a:hover{
+    color: #;
+}
+.menu {
+
+}
+.brand {
+  width: 12rem;
+  height: auto;
+
+  border: none;
+}
+.mundi {
+  width: 250px;
+}
